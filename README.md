@@ -72,7 +72,7 @@ horizon. Fill in after running `train_and_score.py`:
 
 | Metric | Baseline (seasonal-naive) | Model (LightGBM) |
 |---|---|---|
-| Mean WAPE | _fill in_ | _fill in_ |
+| Mean WAPE |  0.612 | 0.447 |
 | Mean bias | _fill in_ | _fill in_ |
 
 Full per-fold results: `reports/backtest_results.csv`.
