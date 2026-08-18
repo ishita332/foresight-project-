@@ -1,4 +1,5 @@
-data/processed/*.csv
+data/processed/analysis_ready.csv
+data/processed/sales_daily.csv
 data/raw/*
 .venv/
 __pycache__/
